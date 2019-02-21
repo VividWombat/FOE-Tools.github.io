@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://foe-tools.github.io/sitemap.xml

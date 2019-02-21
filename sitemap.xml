@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+    <loc>https://foe-tools.github.io/</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/about</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/about"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/about"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/about"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/about"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/about"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/about"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/contributors</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/contributors"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/contributors"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/contributors"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/contributors"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/contributors"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/contributors"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/changelog</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/changelog"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/changelog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/changelog"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/changelog"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/changelog"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/changelog"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Observatory</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Observatory"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Observatory"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Observatory"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Observatory"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Observatory"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Observatory"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Temple_of_Relics</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Temple_of_Relics"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Temple_of_Relics"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Temple_of_Relics"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Temple_of_Relics"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Temple_of_Relics"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Temple_of_Relics"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Oracle_of_Delphi</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Oracle_of_Delphi"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Oracle_of_Delphi"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Oracle_of_Delphi"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Oracle_of_Delphi"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Oracle_of_Delphi"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Oracle_of_Delphi"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Tower_of_Babel</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Tower_of_Babel"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Tower_of_Babel"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Tower_of_Babel"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Tower_of_Babel"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Tower_of_Babel"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Tower_of_Babel"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Statue_of_Zeus</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Statue_of_Zeus"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Statue_of_Zeus"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Statue_of_Zeus"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Statue_of_Zeus"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Statue_of_Zeus"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Statue_of_Zeus"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Colosseum</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Colosseum"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Colosseum"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Colosseum"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Colosseum"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Colosseum"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Colosseum"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Lighthouse_of_Alexandria</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Lighthouse_of_Alexandria"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Lighthouse_of_Alexandria"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Lighthouse_of_Alexandria"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Lighthouse_of_Alexandria"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Lighthouse_of_Alexandria"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Lighthouse_of_Alexandria"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Hagia_Sophia</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Hagia_Sophia"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Hagia_Sophia"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Hagia_Sophia"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Hagia_Sophia"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Hagia_Sophia"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Hagia_Sophia"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Cathedral_of_Aachen</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Cathedral_of_Aachen"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Cathedral_of_Aachen"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Cathedral_of_Aachen"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Cathedral_of_Aachen"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Cathedral_of_Aachen"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Cathedral_of_Aachen"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/St_Mark_s_Basilica</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/St_Mark_s_Basilica"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/St_Mark_s_Basilica"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/St_Mark_s_Basilica"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/St_Mark_s_Basilica"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/St_Mark_s_Basilica"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/St_Mark_s_Basilica"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Notre_Dame</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Notre_Dame"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Notre_Dame"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Notre_Dame"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Notre_Dame"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Notre_Dame"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Notre_Dame"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Saint_Basil_s_Cathedral</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Saint_Basil_s_Cathedral"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Saint_Basil_s_Cathedral"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Saint_Basil_s_Cathedral"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Saint_Basil_s_Cathedral"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Saint_Basil_s_Cathedral"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Saint_Basil_s_Cathedral"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Castel_del_Monte</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Castel_del_Monte"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Castel_del_Monte"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Castel_del_Monte"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Castel_del_Monte"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Castel_del_Monte"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Castel_del_Monte"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Deal_Castle</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Deal_Castle"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Deal_Castle"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Deal_Castle"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Deal_Castle"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Deal_Castle"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Deal_Castle"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Frauenkirche_of_Dresden</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Frauenkirche_of_Dresden"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Frauenkirche_of_Dresden"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Frauenkirche_of_Dresden"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Frauenkirche_of_Dresden"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Frauenkirche_of_Dresden"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Frauenkirche_of_Dresden"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Capitol</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Capitol"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Capitol"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Capitol"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Capitol"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Capitol"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Capitol"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Royal_Albert_Hall</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Royal_Albert_Hall"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Royal_Albert_Hall"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Royal_Albert_Hall"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Royal_Albert_Hall"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Royal_Albert_Hall"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Royal_Albert_Hall"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Chateau_Frontenac</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Chateau_Frontenac"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Chateau_Frontenac"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Chateau_Frontenac"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Chateau_Frontenac"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Chateau_Frontenac"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Chateau_Frontenac"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Alcatraz</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Alcatraz"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Alcatraz"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Alcatraz"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Alcatraz"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Alcatraz"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Alcatraz"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Space_Needle</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Space_Needle"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Space_Needle"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Space_Needle"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Space_Needle"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Space_Needle"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Space_Needle"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Atomium</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Atomium"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Atomium"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Atomium"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Atomium"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Atomium"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Atomium"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Cape_Canaveral</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Cape_Canaveral"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Cape_Canaveral"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Cape_Canaveral"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Cape_Canaveral"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Cape_Canaveral"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Cape_Canaveral"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/The_Habitat</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/The_Habitat"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/The_Habitat"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/The_Habitat"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/The_Habitat"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/The_Habitat"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/The_Habitat"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Lotus_Temple</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Lotus_Temple"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Lotus_Temple"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Lotus_Temple"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Lotus_Temple"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Lotus_Temple"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Lotus_Temple"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Innovation_Tower</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Innovation_Tower"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Innovation_Tower"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Innovation_Tower"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Innovation_Tower"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Innovation_Tower"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Innovation_Tower"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Dynamic_Tower</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Dynamic_Tower"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Dynamic_Tower"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Dynamic_Tower"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Dynamic_Tower"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Dynamic_Tower"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Dynamic_Tower"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Voyager_V1</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Voyager_V1"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Voyager_V1"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Voyager_V1"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Voyager_V1"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Voyager_V1"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Voyager_V1"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/The_Arc</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/The_Arc"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/The_Arc"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/The_Arc"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/The_Arc"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/The_Arc"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/The_Arc"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Rain_Forest_Project</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Rain_Forest_Project"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Rain_Forest_Project"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Rain_Forest_Project"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Rain_Forest_Project"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Rain_Forest_Project"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Rain_Forest_Project"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Gaea_Statue</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Gaea_Statue"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Gaea_Statue"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Gaea_Statue"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Gaea_Statue"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Gaea_Statue"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Gaea_Statue"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Arctic_Orangery</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Arctic_Orangery"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Arctic_Orangery"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Arctic_Orangery"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Arctic_Orangery"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Arctic_Orangery"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Arctic_Orangery"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Seed_Vault</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Seed_Vault"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Seed_Vault"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Seed_Vault"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Seed_Vault"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Seed_Vault"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Seed_Vault"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Atlantis_Museum</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Atlantis_Museum"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Atlantis_Museum"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Atlantis_Museum"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Atlantis_Museum"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Atlantis_Museum"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Atlantis_Museum"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/The_Kraken</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/The_Kraken"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/The_Kraken"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/The_Kraken"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/The_Kraken"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/The_Kraken"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/The_Kraken"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/The_Blue_Galaxy</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/The_Blue_Galaxy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/The_Blue_Galaxy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/The_Blue_Galaxy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/The_Blue_Galaxy"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/The_Blue_Galaxy"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/The_Blue_Galaxy"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Terracotta_Army</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Terracotta_Army"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Terracotta_Army"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Terracotta_Army"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Terracotta_Army"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Terracotta_Army"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Terracotta_Army"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-investment/Himeji_Castle</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-investment/Himeji_Castle"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-investment/Himeji_Castle"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-investment/Himeji_Castle"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-investment/Himeji_Castle"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-investment/Himeji_Castle"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-investment/Himeji_Castle"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/secure-position</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/secure-position"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/secure-position"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/secure-position"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/secure-position"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/secure-position"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/secure-position"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/cf-calculator</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/cf-calculator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/cf-calculator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/cf-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/cf-calculator"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/cf-calculator"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/cf-calculator"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-statistics</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-statistics"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-statistics"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-statistics"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-statistics"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-statistics"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-statistics"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/gb-forecast-cost</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/gb-forecast-cost"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/gb-forecast-cost"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/gb-forecast-cost"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/gb-forecast-cost"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/gb-forecast-cost"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/gb-forecast-cost"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/trade</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/trade"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/trade"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/trade"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/trade"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/trade"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/trade"/>
+</url>
+<url>
+    <loc>https://foe-tools.github.io/campaign-cost</loc>
+    <lastmod>2019-02-21T14:11:05.326Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://foe-tools.github.io/campaign-cost"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://foe-tools.github.io/fr/campaign-cost"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://foe-tools.github.io/de/campaign-cost"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://foe-tools.github.io/ru/campaign-cost"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://foe-tools.github.io/nl/campaign-cost"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://foe-tools.github.io/hu/campaign-cost"/>
+</url>
+</urlset>
